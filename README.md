@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oladeji Fagbewesa</h1>
 <h3 align="center">A CS student looking for SWE Internships</h3>
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/647660a20df6b53fcbee0f23](https://www.overleaf.com/project/647660a20df6b53fcbee0f23)
+- 📄 Know about my experiences [file:///Users/oladejifagbewesa/Downloads/Oladeji_Fagbewesa_s_Software_Engineering_Intern_Summer_2024_resume_.pdf](file:///Users/oladejifagbewesa/Downloads/Oladeji_Fagbewesa_s_Software_Engineering_Intern_Summer_2024_resume_.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
