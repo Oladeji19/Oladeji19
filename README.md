@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oladeji Fagbewesa</h1>
+<h1 align="center">Hi 👋, I'm [insert name]</h1>
 <h3 align="center">A CS student looking for SWE Internships</h3>
 
 <h3 align="left">Connect with me:</h3>
