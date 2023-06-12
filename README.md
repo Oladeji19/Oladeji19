@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oladeji Fagbewesa</h1>
 <h3 align="center">A CS student looking for SWE Internships</h3>
 
+- 📄 Know about my experiences [https://www.overleaf.com/project/647660a20df6b53fcbee0f23](https://www.overleaf.com/project/647660a20df6b53fcbee0f23)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/oladejifagbewe2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/oladejifagbewe2" height="30" width="40" /></a>
