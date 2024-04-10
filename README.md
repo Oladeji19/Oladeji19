@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oladeji Fagbewesa</h1>
-<h3 align="center">A CS student looking for SWE FT Opportunities</h3>
+<h3 align="center">A CS student looking for SWE Internships Opportunities</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
